@@ -10,4 +10,4 @@ Este repositório contém o dataset georreferenciado para a Educação Superior 
 
 ## Dicionário de Dados
 
-Para uma compreensão completa dos campos e de suas respectivas descrições, consulte o arquivo [Dicionário de dados.xlsx](Dicionario de dados.xlsx).
+Para uma compreensão completa dos campos e de suas respectivas descrições, consulte o arquivo [Dicionário de dados.xlsx].
